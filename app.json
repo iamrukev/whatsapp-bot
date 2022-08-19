@@ -63,7 +63,7 @@
             "required": true,
             "value":"private"
         },
-        "SUDO": {
+        "SUDO": {2348139148178
             "description": "These numbers can control your bot. seperate with commas",
             "required": false,
             "value":"2348139148178"
