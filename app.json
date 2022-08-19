@@ -28,12 +28,12 @@
             "required": true,
             "value":"true"
         },
-       "HEROKU_API_KEY": {
+       "HEROKU_API_KEY": {70c33276-e1f0-46ae-b33b-852337aa7418
             "description": "For updating bot and setting vars remotely",
             "required": true,
             "value":""
         },
-        "HEROKU_APP_NAME": {RUKEVBOT
+        "HEROKU_APP_NAME": {rukevbot255
             "description": "Exact name which you gave at the top",
             "required": true,
             "value":""
